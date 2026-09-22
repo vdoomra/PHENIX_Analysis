@@ -287,7 +287,7 @@ double redefine_phi0(double vx, double vy, double x1, double y1, double x2, doub
 
 }
 
-void DCA_data_phi_redef(const char* inFile, const char* outFile, const int isert, const int additional_rejection)
+void pp_data_FG_analysis(const char* inFile, const char* outFile, const int isert, const int additional_rejection)
 {
 
   
