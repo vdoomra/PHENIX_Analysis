@@ -241,7 +241,7 @@ double redefine_phi0(double vx, double vy, double x1, double y1, double x2, doub
 
 }
 
-void DCA_data_BG_phi_redef(const char* inFileA, const char* inFileB, const char* outFile, const int additional_rejection)
+void pp_data_BG_analysis(const char* inFileA, const char* inFileB, const char* outFile, const int additional_rejection)
 { 
 
   for(int j=0; j<ncharge; j++){
